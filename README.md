@@ -32,7 +32,7 @@
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-  <a href="https://github.com/CHMA2009/-CHAMA-MD/fork"><img title="CHAMA-MD" src="https://img.shields.io/badge/FORK-CHAMA-MD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/CHMA2009/-CHAMA-MD/fork"><img title="CHAMA-MD" src="https://img.shields.io/badge/FORK-CHAMA,MD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
   
 ### 2. Get Session ID 
 
@@ -125,7 +125,7 @@ You can deploy this bot for free on the following platforms:
 
 
 ## 👑 PROJECT OWNER 
-HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME ALI࿐➺
+HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME CHAMA-MD
 
 <p align="">
 <a href='https://wa.me/+94774575878?text=*ʜɪɪ+chamindu+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+𝚌𝚑𝚊𝚖𝚊-ᴍᴅ+ʀᴇᴘᴏ!!*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/p></a> </a>
@@ -181,16 +181,16 @@ jobs:
 
 ---
 
- ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flakaofc%2Flaka-md&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
+ ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchamaofc%2Fchama-md&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
-![Docker Size](https://img.shields.io/docker/image-size/lakaofc/laka-md?style=flat&logo=docker&label=Docker+Size)
-![Docker Pulls](https://img.shields.io/docker/pulls/lakaofc/laka-md?style=flat&logo=docker&label=Docker+Pulls)
+![Docker Size](https://img.shields.io/docker/image-size/CHMA2009/-CHAMA-MD?style=flat&logo=docker&label=Docker+Size)
+![Docker Pulls](https://img.shields.io/docker/pulls/CHMA2009/-CHAMA-MD?style=flat&logo=docker&label=Docker+Pulls)
 
-![forks](https://img.shields.io/github/forks/lakaofc/laka-md?label=Forks&style=social)
-![stars](https://img.shields.io/github/stars/lakaofc/laka-md?style=social)
+![forks](https://img.shields.io/github/forks/CHMA2009/-CHAMA-MD?label=Forks&style=social)
+![stars](https://img.shields.io/github/stars/CHMA2009/-CHAMA-MD?style=social)
 
-![size](https://img.shields.io/github/repo-size/lakaofc/laka-md?color=purple&label=Repo%20Size&style=plastic)
-![license](https://img.shields.io/github/license/lakaofc/laka-md?color=purple&label=License&style=plastic)
+![size](https://img.shields.io/github/repo-size/CHMA2009/-CHAMA-MD?color=purple&label=Repo%20Size&style=plastic)
+![license](https://img.shields.io/github/license/CHMA2009/-CHAMA-MD?color=purple&label=License&style=plastic)
 
 ----
 
@@ -208,3 +208,4 @@ Stay connected with the latest updates and community by joining our official Wha
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ---
+
