@@ -4,25 +4,25 @@
 <a><img src='https://i.ibb.co/5XNzHkVp/3908.jpg'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
-  <a href="https://github.com/lakaofc"><img title="Developer" src="https://img.shields.io/badge/Author-Mr%20Lakaofc-FF7604.svg?style=big-square&logo=github" /></a>
+  <a href="https://github.com/CHMA2009"><img title="Developer" src="https://img.shields.io/badge/Author-Mr%20chamaofc-FF7604.svg?style=big-square&logo=github" /></a>
 </p>
 
 <div align="center">
   
-[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029Vb10Jv560eBfnX6Jaa3Y)
+[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029Vb5OiseHltY10IBkF112)
 </div>
 
- <p align="center"><img src="https://profile-counter.glitch.me/{laka-md}/count.svg" alt="lakaofc :: Visitor's Count" old_src="https://profile-counter.glitch.me/{lakaofc}/count.svg" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{chama-md}/count.svg" alt="lakaofc :: Visitor's Count" old_src="https://profile-counter.glitch.me/{lakaofc}/count.svg" /></p>
 
 
 <p align="center">
-<a href="https://github.com/lakaofc/laka-md"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=lakaofc&label=VIEWS&style=square&color=blue" />
+<a href="https://github.com/CHMA2009/-CHAMA-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=CHMA2009&label=VIEWS&style=square&color=blue" />
 </p>
 </p> 
 
 <p align="center">
-  <a href="https://github.com/lakaofc/laka-md"><img title="Release" src="https://img.shields.io/badge/Release-%20v2.0.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/CHMA2009/-CHAMA-MD"><img title="Release" src="https://img.shields.io/badge/Release-%20v2.0.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
 
 
@@ -32,16 +32,23 @@
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-  <a href="https://github.com/lakaofc/laka-md/fork"><img title="CHAMA-MD" src="https://img.shields.io/badge/FORK-LAKA,MD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/CHMA2009/-CHAMA-MD/fork"><img title="CHAMA-MD" src="https://img.shields.io/badge/FORK-CHAMA-MD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
   
 ### 2. Get Session ID 
 
 You will need a session ID to run the CHAMA=MD. Click the button below to obtain your session ID.if any error in loading site try vpn:
 
-> **Get Pair Code (Session ID)**
+> **1. PAIR CODE SESSION ID**
+
+<a href='https://chama-md1.onrender.com/' target="_blank">
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
+</a>
+<br> 
+
+> **2. PAIR CODE SESSION ID**
 
 <a href='https://chama-md2.onrender.com/' target="_blank">
-  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-0076D2?style=for-the-badge&logo=opencv&logoColor=black'/>
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
 
@@ -56,7 +63,7 @@ You can deploy this bot for free on the following platforms:
 <p style="text-align: center; font-size: 1.2em;">
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/itx-alii-raza/ALI-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/CHMA2009/-CHAMA-MD)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### <h4 align="">3. KOYEB</h4>
@@ -101,34 +108,8 @@ You can deploy this bot for free on the following platforms:
 
 ## <h3 align=""> HOW TO DEPLOY ON HUGGING FACE</h3>
 <h6 align-"center">
-*❄️ Deploy ali-md On Hugging Face For Free !*
+*❄️ Deploy chama-md On Hugging Face For Free !*
 
-`Specs :`
-- v2 CPU
-- 16GB RAM
-
-> `Steps to deploy`
-
-`Step 1`
-1. Go to hugginface.co/join and create an account and verify your email too.
-
-`Step 2`
-1. Go to https://huggingface.co/spaces/itx-alii-raza/ALI-MD
-
-2. Tap on *three dots* _(as shown in image)_
-
-3. Tap on *duplicate space* _(as shown in image)_
-
-`Step 3`
-1. Fill your details, e.g., Session ID, Bot Name, owner number etc...
-
-2. Tap on *duplicate space shown below*
-
-```After that wait 10 seconds & your have deployed it successfuly  for free 24/7```
-
-> CREDITS PIKABOTZ🎐
-
-*ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ 𝚌𝚑𝚊𝚖𝚒𝚗𝚍𝚞*</h6>
 
 </details>
 
