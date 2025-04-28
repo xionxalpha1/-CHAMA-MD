@@ -72,7 +72,7 @@ await conn.listMessage(from, listMessage,mek)
 })
 
 cmd({
-    pattern: "mod",
+    pattern: "mod1",
     dontAddCommandList: true,
     filename: __filename
 },
