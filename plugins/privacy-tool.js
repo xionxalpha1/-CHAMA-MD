@@ -7,7 +7,7 @@ const axios = require("axios");
 
 cmd({
     pattern: "privacy",
-    alias: ["privacymenu"],
+    alias: ["privacymenu","pmenu"],
     desc: "Privacy settings menu",
     category: "privacy",
     react: "🔐",
