@@ -137,7 +137,7 @@ HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHAT
 
 #### Node.js CI
 
-You can set up a continuous integration workflow by creating a `.github/workflows/nodejs.yml` file with the following content:
+You can set up a continuous integration workflow by creating a `.github/workflows/main.yml` file with the following content:
 
 ```yaml
 name: Node.js CI
@@ -208,4 +208,3 @@ Stay connected with the latest updates and community by joining our official Wha
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ---
-
