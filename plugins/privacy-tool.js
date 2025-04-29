@@ -1,1 +1,327 @@
-const _0x4d3da5=_0x3b1c;(function(_0x207767,_0x5ae0e7){const _0x4970aa=_0x3b1c,_0x584352=_0x207767();while(!![]){try{const _0x483834=-parseInt(_0x4970aa(0x97))/0x1+-parseInt(_0x4970aa(0x74))/0x2+-parseInt(_0x4970aa(0x70))/0x3*(parseInt(_0x4970aa(0xbe))/0x4)+-parseInt(_0x4970aa(0xe0))/0x5+parseInt(_0x4970aa(0xca))/0x6+-parseInt(_0x4970aa(0x85))/0x7*(parseInt(_0x4970aa(0x7d))/0x8)+-parseInt(_0x4970aa(0xd7))/0x9*(-parseInt(_0x4970aa(0xdb))/0xa);if(_0x483834===_0x5ae0e7)break;else _0x584352['push'](_0x584352['shift']());}catch(_0x48cfb8){_0x584352['push'](_0x584352['shift']());}}}(_0x27f9,0xe1591));const _0x151b4f=(function(){let _0x2f5828=!![];return function(_0x579019,_0x3e2b36){const _0x14c7fc=_0x2f5828?function(){const _0x2706d1=_0x3b1c;if(_0x3e2b36){const _0x3acc7d=_0x3e2b36[_0x2706d1(0xd1)](_0x579019,arguments);return _0x3e2b36=null,_0x3acc7d;}}:function(){};return _0x2f5828=![],_0x14c7fc;};}()),_0x565175=_0x151b4f(this,function(){const _0x5f39fb=_0x3b1c;return _0x565175[_0x5f39fb(0x9d)]()[_0x5f39fb(0x88)](_0x5f39fb(0xd8))[_0x5f39fb(0x9d)]()[_0x5f39fb(0xcc)](_0x565175)['search'](_0x5f39fb(0xd8));});_0x565175();function _0x3b1c(_0x7d02a6,_0x4ca33f){const _0x5a8a31=_0x27f9();return _0x3b1c=function(_0x55dfe7,_0x46a221){_0x55dfe7=_0x55dfe7-0x65;let _0x251a27=_0x5a8a31[_0x55dfe7];return _0x251a27;},_0x3b1c(_0x7d02a6,_0x4ca33f);}const _0x46a221=(function(){let _0x48b8f5=!![];return function(_0x1fec8f,_0x5497d2){const _0x2134aa=_0x48b8f5?function(){const _0x13534f=_0x3b1c;if(_0x5497d2){const _0x5ec69e=_0x5497d2[_0x13534f(0xd1)](_0x1fec8f,arguments);return _0x5497d2=null,_0x5ec69e;}}:function(){};return _0x48b8f5=![],_0x2134aa;};}()),_0x55dfe7=_0x46a221(this,function(){const _0x2c3ddd=_0x3b1c;let _0x258c15;try{const _0x83265b=Function(_0x2c3ddd(0x8c)+_0x2c3ddd(0xd2)+');');_0x258c15=_0x83265b();}catch(_0x59be91){_0x258c15=window;}const _0x1583ef=_0x258c15['console']=_0x258c15[_0x2c3ddd(0xc0)]||{},_0x55d38e=[_0x2c3ddd(0xc1),_0x2c3ddd(0xa5),_0x2c3ddd(0x7c),'error',_0x2c3ddd(0xc9),_0x2c3ddd(0x68),_0x2c3ddd(0x7f)];for(let _0xae8833=0x0;_0xae8833<_0x55d38e[_0x2c3ddd(0xa4)];_0xae8833++){const _0x38330f=_0x46a221[_0x2c3ddd(0xcc)]['prototype'][_0x2c3ddd(0x71)](_0x46a221),_0x41bde0=_0x55d38e[_0xae8833],_0x2d3985=_0x1583ef[_0x41bde0]||_0x38330f;_0x38330f['__proto__']=_0x46a221[_0x2c3ddd(0x71)](_0x46a221),_0x38330f['toString']=_0x2d3985[_0x2c3ddd(0x9d)]['bind'](_0x2d3985),_0x1583ef[_0x41bde0]=_0x38330f;}});_0x55dfe7();const fs=require('fs'),config=require(_0x4d3da5(0xa2)),{cmd,commands}=require(_0x4d3da5(0xd6)),path=require(_0x4d3da5(0xd3)),axios=require(_0x4d3da5(0xa9));cmd({'pattern':_0x4d3da5(0xce),'alias':['privacymenu'],'desc':_0x4d3da5(0x90),'category':_0x4d3da5(0xce),'react':'🔐','filename':__filename},async(_0x55a3d6,_0x572545,_0x4c76d4,{from:_0x19f6d3,quoted:_0x2c0835,body:_0x1fb488,isCmd:_0xf48047,command:_0x3bcc51,args:_0x25c0ae,q:_0xf353b4,isGroup:_0x44b29b,sender:_0x56824d,senderNumber:_0x447fce,botNumber2:_0x627586,botNumber:_0x19ea12,pushname:_0x5c1d13,isMe:_0x24cd18,isOwner:_0x5c2dad,groupMetadata:_0x42ac0c,groupName:_0x1267be,participants:_0x5ab917,groupAdmins:_0xf57b08,isBotAdmins:_0x383e1d,isAdmins:_0x74bb4d,reply:_0x47e5fc})=>{const _0x1399eb=_0x4d3da5;try{let _0x2bddd9=_0x1399eb(0x9f);await _0x55a3d6['sendMessage'](_0x19f6d3,{'image':{'url':_0x1399eb(0x81)},'caption':_0x2bddd9,'contextInfo':{'mentionedJid':[_0x4c76d4['sender']],'forwardingScore':0x3e7,'isForwarded':!![],'forwardedNewsletterMessageInfo':{'newsletterJid':_0x1399eb(0x84),'newsletterName':_0x1399eb(0xbb),'serverMessageId':0x8f}}},{'quoted':_0x572545});}catch(_0x518b60){console[_0x1399eb(0xc1)](_0x518b60),_0x47e5fc(_0x1399eb(0xa8)+_0x518b60[_0x1399eb(0x94)]);}}),cmd({'pattern':_0x4d3da5(0xac),'desc':'View\x20the\x20list\x20of\x20blocked\x20users.','category':'privacy','react':'📋','filename':__filename},async(_0x53a064,_0x58d435,_0x17ff2f,{from:_0xf17486,isOwner:_0xcce5d8,reply:_0x5eb7cd})=>{const _0x48c297=_0x4d3da5;if(!_0xcce5d8)return _0x5eb7cd(_0x48c297(0xae));try{const _0x139425=await _0x53a064[_0x48c297(0x7e)]();if(_0x139425[_0x48c297(0xa4)]===0x0)return _0x5eb7cd(_0x48c297(0x9e));const _0x1c27ae=_0x139425[_0x48c297(0xb4)]((_0x3c6eb8,_0x2bbbbf)=>_0x48c297(0xdd)+_0x3c6eb8['split']('@')[0x0])[_0x48c297(0x76)]('\x0a'),_0x51e853=_0x139425[_0x48c297(0xa4)];_0x5eb7cd('📋\x20Blocked\x20Users\x20('+_0x51e853+_0x48c297(0x96)+_0x1c27ae);}catch(_0x557e17){console[_0x48c297(0x86)](_0x557e17),_0x5eb7cd('❌\x20Failed\x20to\x20fetch\x20block\x20list:\x20'+_0x557e17[_0x48c297(0x94)]);}}),cmd({'pattern':_0x4d3da5(0x82),'desc':'Displays\x20the\x20user\x27s\x20bio.','category':_0x4d3da5(0xce),'filename':__filename},async(_0x5c9fe3,_0x59eb47,_0x4a3f36,{args:_0x20c824,reply:_0x27f048})=>{const _0xdca8de=_0x4d3da5;try{const _0x4a7512=_0x20c824[0x0]||_0x59eb47[_0xdca8de(0xa1)][_0xdca8de(0x67)],_0x1f7c1d=await _0x5c9fe3[_0xdca8de(0x9a)]?.(_0x4a7512);if(!_0x1f7c1d)return _0x27f048(_0xdca8de(0xdc));return _0x27f048(_0xdca8de(0xb8)+_0x1f7c1d[_0xdca8de(0x91)]);}catch(_0x4a4f84){console['error'](_0xdca8de(0xcf),_0x4a4f84),_0x27f048(_0xdca8de(0xdc));}}),cmd({'pattern':_0x4d3da5(0xb9),'desc':_0x4d3da5(0x75),'category':_0x4d3da5(0xce),'react':'🔐','filename':__filename},async(_0x283001,_0x119cc9,_0x57a333,{from:_0x4a6020,l:_0x2f32b9,quoted:_0x33111d,body:_0x1273fc,isCmd:_0x3e6034,command:_0x5d9dab,args:_0x40bd56,q:_0x218456,isGroup:_0x1a4bb1,sender:_0x420781,senderNumber:_0x1320a4,botNumber2:_0x1f9ac9,botNumber:_0x813502,pushname:_0x2e43d0,isMe:_0x35a5e9,isOwner:_0x5425bf,groupMetadata:_0x171d1d,groupName:_0x560a25,participants:_0x53f103,groupAdmins:_0x3a173f,isBotAdmins:_0x29520e,isAdmins:_0x29959b,reply:_0x814231})=>{const _0x165936=_0x4d3da5;if(!_0x5425bf)return _0x814231('❌\x20You\x20are\x20not\x20the\x20owner!');try{const _0x1510b6=_0x40bd56[0x0]||_0x165936(0xb7),_0x4ab9a6=[_0x165936(0xb7),'contacts',_0x165936(0xa6),_0x165936(0xc2)];if(!_0x4ab9a6[_0x165936(0x9b)](_0x1510b6))return _0x814231(_0x165936(0xe5));await _0x283001[_0x165936(0x6b)](_0x1510b6),_0x814231(_0x165936(0x93)+_0x1510b6);}catch(_0x14828c){return _0x814231('*An\x20error\x20occurred\x20while\x20processing\x20your\x20request.*\x0a\x0a_Error:_\x20'+_0x14828c['message']);}}),cmd({'pattern':_0x4d3da5(0x65),'desc':_0x4d3da5(0xb5),'category':_0x4d3da5(0xce),'react':'🔐','filename':__filename},async(_0x34814f,_0x4908fe,_0x1a866d,{from:_0x2cfcf6,l:_0x31fe7a,quoted:_0x32480f,body:_0x677a7,isCmd:_0x127cf0,command:_0x1c1c63,args:_0x2749fd,q:_0x44800f,isGroup:_0x45c591,sender:_0x25f89b,senderNumber:_0x1d30b4,botNumber2:_0x1d6170,botNumber:_0x1b1343,pushname:_0x467fd3,isMe:_0x56125e,isOwner:_0x374cc7,groupMetadata:_0x372bad,groupName:_0x92e2a2,participants:_0xdfd32,groupAdmins:_0x50f0a1,isBotAdmins:_0x16d8f1,isAdmins:_0x3197eb,reply:_0x46341b})=>{const _0x5cacec=_0x4d3da5;if(!_0x374cc7)return _0x46341b(_0x5cacec(0xc4));try{const _0x311f2a=_0x2749fd[0x0]||_0x5cacec(0xb7),_0xd0ca71=[_0x5cacec(0xb7),_0x5cacec(0x98)];if(!_0xd0ca71[_0x5cacec(0x9b)](_0x311f2a))return _0x46341b(_0x5cacec(0x8a));await _0x34814f[_0x5cacec(0xe4)](_0x311f2a),_0x46341b(_0x5cacec(0xbd)+_0x311f2a);}catch(_0x2bad8a){return _0x46341b(_0x5cacec(0x72)+_0x2bad8a['message']);}}),cmd({'pattern':_0x4d3da5(0xdf),'desc':'Set\x20bot\x20profile\x20picture.','category':_0x4d3da5(0xce),'react':_0x4d3da5(0xbf),'filename':__filename},async(_0x195a57,_0x1f012c,_0xbe01c5,{from:_0x4cdcf8,isOwner:_0x4c4d21,quoted:_0x1fd149,reply:_0x246d49})=>{const _0x4b656b=_0x4d3da5;if(!_0x4c4d21)return _0x246d49(_0x4b656b(0xc4));if(!_0x1fd149||!_0x1fd149[_0x4b656b(0x94)][_0x4b656b(0xe3)])return _0x246d49(_0x4b656b(0x8d));try{const _0x318db0=await downloadContentFromMessage(_0x1fd149[_0x4b656b(0x94)]['imageMessage'],_0x4b656b(0xb2));let _0x443ba5=Buffer[_0x4b656b(0xcd)]([]);for await(const _0x336228 of _0x318db0){_0x443ba5=Buffer[_0x4b656b(0xc6)]([_0x443ba5,_0x336228]);}const _0x578d9a=path[_0x4b656b(0x76)](__dirname,Date['now']()+_0x4b656b(0xd0));fs['writeFileSync'](_0x578d9a,_0x443ba5),await _0x195a57[_0x4b656b(0x6e)](_0x195a57[_0x4b656b(0x83)][_0x4b656b(0xe6)],{'url':'file://'+_0x578d9a}),_0x246d49(_0x4b656b(0xa0));}catch(_0x50fcc0){console[_0x4b656b(0x86)]('Error\x20updating\x20profile\x20picture:',_0x50fcc0),_0x246d49(_0x4b656b(0xde)+_0x50fcc0[_0x4b656b(0x94)]);}}),cmd({'pattern':_0x4d3da5(0x9c),'desc':_0x4d3da5(0xb3),'category':_0x4d3da5(0xce),'react':'⚙️','filename':__filename},async(_0x4b94ab,_0x111ab6,_0x141e10,{from:_0x44496f,isOwner:_0x24a4cf,reply:_0x440f20,args:_0x144f21})=>{const _0x675c98=_0x4d3da5;if(!_0x24a4cf)return _0x440f20(_0x675c98(0xc4));const _0x21dbc5=_0x144f21['join']('\x20');if(!_0x21dbc5)return _0x440f20(_0x675c98(0x7b));try{const {state:_0x5b398e,saveCreds:_0x375c7d}=await useMultiFileAuthState(_0x675c98(0x73)),_0x14d30a=makeWASocket({'auth':_0x5b398e,'printQRInTerminal':!![]});_0x14d30a['ev']['on'](_0x675c98(0x8b),_0x375c7d),await _0x14d30a[_0x675c98(0xab)](_0x21dbc5),_0x440f20(_0x675c98(0xc7)+_0x21dbc5);}catch(_0x2c7804){console[_0x675c98(0x86)](_0x2c7804),_0x440f20('❌\x20Failed\x20to\x20set\x20your\x20display\x20name.');}}),cmd({'pattern':_0x4d3da5(0xc3),'react':'🥏','desc':_0x4d3da5(0xba),'category':_0x4d3da5(0xce),'use':_0x4d3da5(0x77),'filename':__filename},async(_0xe36075,_0x19681d,_0x1b6986,{from:_0x23112b,l:_0x599ee9,quoted:_0xe17ff5,body:_0x5ccee1,isCmd:_0x28532e,command:_0x9be4be,args:_0x58f7a0,q:_0x21ed89,isGroup:_0x589d19,sender:_0x5b915d,senderNumber:_0x2a384d,botNumber2:_0x4f1075,botNumber:_0x1f1bff,pushname:_0x125ed4,isMe:_0xf16ada,isOwner:_0x38b174,groupMetadata:_0x28d8e9,groupName:_0x53fe0b,participants:_0x5a50ee,groupAdmins:_0x2c144c,isBotAdmins:_0x5a5338,isAdmins:_0x27b842,reply:_0xdc334c})=>{const _0x2663ee=_0x4d3da5;try{if(!_0x38b174)return _0xdc334c(_0x2663ee(0xd9));if(!_0x21ed89)return _0xdc334c(_0x2663ee(0x6c));if(_0x21ed89[_0x2663ee(0xa4)]>0x8b)return _0xdc334c('❗\x20*Sorry!\x20Character\x20limit\x20exceeded*');await _0xe36075[_0x2663ee(0xe7)](_0x21ed89),await _0xe36075['sendMessage'](_0x23112b,{'text':_0x2663ee(0xbc)},{'quoted':_0x19681d});}catch(_0x5c532c){_0xdc334c(_0x2663ee(0x7a)+_0x5c532c),_0x599ee9(_0x5c532c);}}),cmd({'pattern':_0x4d3da5(0x95),'desc':_0x4d3da5(0x99),'category':_0x4d3da5(0xce),'react':'🔐','filename':__filename},async(_0x4c1d95,_0x157cc5,_0xbd172,{from:_0x466721,l:_0x139bbb,quoted:_0x105aa7,body:_0x5c1c62,isCmd:_0xc50931,command:_0xf1253f,args:_0x5437b0,q:_0x244167,isGroup:_0xb172ec,sender:_0x2d9c99,senderNumber:_0x37f4aa,botNumber2:_0x3932e6,botNumber:_0x43bab4,pushname:_0x43406d,isMe:_0x48707a,isOwner:_0x5648eb,groupMetadata:_0x3d781b,groupName:_0x15ebe6,participants:_0xfb307a,groupAdmins:_0x2fbc37,isBotAdmins:_0x40851,isAdmins:_0x599370,reply:_0x17e0c9})=>{const _0x353485=_0x4d3da5;if(!_0x5648eb)return _0x17e0c9(_0x353485(0xc4));try{const _0x5466ba=_0x5437b0[0x0]||_0x353485(0xb7),_0x35d55e=[_0x353485(0xb7),_0x353485(0x87),_0x353485(0xa6),_0x353485(0xc2)];if(!_0x35d55e[_0x353485(0x9b)](_0x5466ba))return _0x17e0c9('❌\x20Invalid\x20option.\x20Valid\x20options\x20are:\x20\x27all\x27,\x20\x27contacts\x27,\x20\x27contact_blacklist\x27,\x20\x27none\x27.');await _0x4c1d95[_0x353485(0xe1)](_0x5466ba),_0x17e0c9('✅\x20Group\x20add\x20privacy\x20updated\x20to:\x20'+_0x5466ba);}catch(_0x1560f2){return _0x17e0c9(_0x353485(0x72)+_0x1560f2[_0x353485(0x94)]);}}),cmd({'pattern':_0x4d3da5(0xb6),'desc':_0x4d3da5(0x92),'category':_0x4d3da5(0xce),'use':_0x4d3da5(0xe2),'filename':__filename},async(_0x3c0f22,_0x76457d,_0x410315,{from:_0x3dc96d,l:_0x3082de,quoted:_0x406ec9,body:_0x10995f,isCmd:_0x347741,command:_0x3435b3,args:_0x2978a5,q:_0x12ab37,isGroup:_0x16a0af,sender:_0x52a007,senderNumber:_0x5e7a88,botNumber2:_0x5b6666,botNumber:_0xd7ced6,pushname:_0x379315,isMe:_0x141598,isOwner:_0x5ee794,groupMetadata:_0x25822e,groupName:_0xccd985,participants:_0x111d36,groupAdmins:_0x2df6f9,isBotAdmins:_0x4cba40,isAdmins:_0x5dea6b,reply:_0x400a01})=>{const _0x578fbf=_0x4d3da5;try{if(!_0x5ee794)return _0x400a01(_0x578fbf(0xd9));const _0x33dffb=await _0x3c0f22['fetchPrivacySettings']?.(!![]);if(!_0x33dffb)return _0x400a01(_0x578fbf(0x78));let _0x378e1a=_0x578fbf(0x89)+_0x33dffb['readreceipts']+_0x578fbf(0xb0)+_0x33dffb['profile']+_0x578fbf(0xb1)+_0x33dffb['status']+_0x578fbf(0xaa)+_0x33dffb[_0x578fbf(0x6d)]+_0x578fbf(0xc5)+_0x33dffb[_0x578fbf(0xd5)]+_0x578fbf(0xa7)+_0x33dffb['groupadd']+_0x578fbf(0xcb)+_0x33dffb[_0x578fbf(0x79)]+_0x578fbf(0x69);await _0x3c0f22[_0x578fbf(0xa3)](_0x3dc96d,{'text':_0x378e1a},{'quoted':_0x76457d});}catch(_0x239a30){_0x400a01(_0x578fbf(0x7a)+_0x239a30),_0x3082de(_0x239a30);}}),cmd({'pattern':_0x4d3da5(0x6a),'desc':_0x4d3da5(0xc8),'category':_0x4d3da5(0x66),'filename':__filename},async(_0x2ef008,_0xaebe16,_0x1c5cbf,{quoted:_0x53b3aa,isGroup:_0x7212e,sender:_0x1c18ee,participants:_0x13e204,reply:_0x3b840b})=>{const _0x2722ad=_0x4d3da5;try{const _0x5a5df2=_0x53b3aa?_0x53b3aa[_0x2722ad(0xda)]:_0x1c18ee;if(!_0x5a5df2)return _0x3b840b(_0x2722ad(0xaf));const _0x5e1d55=await _0x2ef008[_0x2722ad(0xd4)](_0x5a5df2,_0x2722ad(0xb2))['catch'](()=>null);if(!_0x5e1d55)return _0x3b840b(_0x2722ad(0x6f));await _0x2ef008['sendMessage'](_0x1c5cbf[_0x2722ad(0xad)],{'image':{'url':_0x5e1d55},'caption':_0x2722ad(0x80)});}catch(_0x19b6cf){console[_0x2722ad(0x86)](_0x2722ad(0x8e),_0x19b6cf),_0x3b840b(_0x2722ad(0x8f));}});function _0x27f9(){const _0x31244b=['groupsprivacy','):\x0a\x0a','408980qVFaNL','match_last_seen','Update\x20Group\x20Add\x20Privacy','fetchStatus','includes','setmyname','toString','📋\x20Your\x20block\x20list\x20is\x20empty.','╭━━〔\x20*Privacy\x20Settings*\x20〕━━┈⊷\x0a┃◈╭─────────────·๏\x0a┃◈┃•\x20blocklist\x20-\x20View\x20blocked\x20users\x0a┃◈┃•\x20getbio\x20-\x20Get\x20user\x27s\x20bio\x0a┃◈┃•\x20setppall\x20-\x20Set\x20profile\x20pic\x20privacy\x0a┃◈┃•\x20setonline\x20-\x20Set\x20online\x20privacy\x0a┃◈┃•\x20setpp\x20-\x20Change\x20bot\x27s\x20profile\x20pic\x0a┃◈┃•\x20setmyname\x20-\x20Change\x20bot\x27s\x20name\x0a┃◈┃•\x20updatebio\x20-\x20Change\x20bot\x27s\x20bio\x0a┃◈┃•\x20groupsprivacy\x20-\x20Set\x20group\x20add\x20privacy\x0a┃◈┃•\x20getprivacy\x20-\x20View\x20current\x20privacy\x20settings\x0a┃◈┃•\x20getpp\x20-\x20Get\x20user\x27s\x20profile\x20picture\x0a┃◈┃\x0a┃◈┃*Options\x20for\x20privacy\x20commands:*\x0a┃◈┃•\x20all\x20-\x20Everyone\x0a┃◈┃•\x20contacts\x20-\x20My\x20contacts\x20only\x0a┃◈┃•\x20contact_blacklist\x20-\x20Contacts\x20except\x20blocked\x0a┃◈┃•\x20none\x20-\x20Nobody\x0a┃◈┃•\x20match_last_seen\x20-\x20Match\x20last\x20seen\x0a┃◈└───────────┈⊷\x0a╰──────────────┈⊷\x0a*Note:*\x20Most\x20commands\x20are\x20owner-only','🖼️\x20Profile\x20picture\x20updated\x20successfully!','key','../config','sendMessage','length','warn','contact_blacklist','\x20\x20\x0a│\x20∘\x20𝙶𝚛𝚘𝚞𝚙\x20𝙿𝚛𝚒𝚟𝚊𝚌𝚢:\x20','Error:\x20','axios','\x20\x20\x0a│\x20∘\x20𝙾𝚗𝚕𝚒𝚗𝚎:\x20','updateProfileName','blocklist','chat','*📛\x20You\x20are\x20not\x20the\x20owner!*','⚠️\x20Please\x20reply\x20to\x20a\x20message\x20to\x20fetch\x20the\x20profile\x20picture.','\x20\x20\x0a│\x20∘\x20𝙿𝚛𝚘𝚏𝚒𝚕𝚎\x20𝙿𝚒𝚌𝚝𝚞𝚛𝚎:\x20','\x20\x20\x0a│\x20∘\x20𝚂𝚝𝚊𝚝𝚞𝚜:\x20','image','Set\x20your\x20WhatsApp\x20display\x20name.','map','Update\x20Online\x20Privacy','getprivacy','all','User\x20Bio:\x0a\x0a','setppall','Change\x20the\x20Bot\x20number\x20Bio.','☈☟𝗖𝗛𝗔𝗠𝗔\x20𝗠𝗗','✔️\x20*New\x20Bio\x20Added\x20Successfully*','✅\x20Online\x20privacy\x20updated\x20to:\x20','3364aXzTmG','🖼️','console','log','none','updatebio','❌\x20You\x20are\x20not\x20the\x20owner!','\x20\x20\x0a│\x20∘\x20𝙻𝚊𝚜𝚝\x20𝚂𝚎𝚎𝚗:\x20','concat','✅\x20Your\x20display\x20name\x20has\x20been\x20set\x20to:\x20','Fetch\x20the\x20profile\x20picture\x20of\x20a\x20tagged\x20or\x20replied\x20user.','exception','7126266AuTBTS','\x20\x20\x0a│\x20∘\x20𝙲𝚊𝚕𝚕\x20𝙿𝚛𝚒𝚟𝚊𝚌𝚢:\x20','constructor','from','privacy','Error\x20in\x20bio\x20command:','.jpg','apply','{}.constructor(\x22return\x20this\x22)(\x20)','path','profilePictureUrl','last','../command','10345959TtLcTq','(((.+)+)+)+$','🚫\x20*You\x20must\x20be\x20an\x20Owner\x20to\x20use\x20this\x20command*','sender','30PNxWfH','No\x20bio\x20found.','🚧\x20BLOCKED\x20','❌\x20Error\x20updating\x20profile\x20picture:\x20','setpp','3566335JGAloK','updateGroupsAddPrivacy','.getprivacy','imageMessage','updateOnlinePrivacy','❌\x20Invalid\x20option.\x20Valid\x20options\x20are:\x20\x27all\x27,\x20\x27contacts\x27,\x20\x27contact_blacklist\x27,\x20\x27none\x27.','jid','updateProfileStatus','setonline','owner','remoteJid','table','\x20\x20\x0a╰────────────────────','getpp','updateProfilePicturePrivacy','❓\x20*Enter\x20the\x20New\x20Bio*','online','updateProfilePicture','⚠️\x20No\x20profile\x20picture\x20found\x20for\x20the\x20specified\x20user.','1383MXHXcB','bind','*An\x20error\x20occurred\x20while\x20processing\x20your\x20request.*\x0a\x0a_Error:_\x20','path/to/auth/folder','2047952qjnDTR','Update\x20Profile\x20Picture\x20Privacy','join','.updatebio','🚫\x20*Failed\x20to\x20fetch\x20privacy\x20settings*','calladd','🚫\x20*An\x20error\x20occurred!*\x0a\x0a','❌\x20Please\x20provide\x20a\x20display\x20name.','info','8bwYRoR','fetchBlocklist','trace','🖼️\x20Here\x20is\x20the\x20profile\x20picture\x20of\x20the\x20specified\x20user.','https://i.ibb.co/5XNzHkVp/3908.jpg','getbio','user','120363419192353625@newsletter','8255905dNmFWm','error','contacts','search','\x0a╭───「\x20𝙿𝚁𝙸𝚅𝙰𝙲𝚈\x20\x20」───◆\x20\x20\x0a│\x20∘\x20𝚁𝚎𝚊𝚍\x20𝚁𝚎𝚌𝚎𝚒𝚙𝚝:\x20','❌\x20Invalid\x20option.\x20Valid\x20options\x20are:\x20\x27all\x27,\x20\x27match_last_seen\x27.','creds.update','return\x20(function()\x20','❌\x20Please\x20reply\x20to\x20an\x20image.','Error\x20fetching\x20user\x20profile\x20picture:','❌\x20An\x20error\x20occurred\x20while\x20fetching\x20the\x20profile\x20picture.\x20Please\x20try\x20again\x20later.','Privacy\x20settings\x20menu','status','Get\x20the\x20bot\x20Number\x20Privacy\x20Setting\x20Updates.','✅\x20Profile\x20picture\x20privacy\x20updated\x20to:\x20','message'];_0x27f9=function(){return _0x31244b;};return _0x27f9();}
+const fs = require("fs");
+const config = require("../config");
+const { cmd, commands } = require("../command");
+const path = require('path');
+const axios = require("axios");
+
+
+cmd({
+    pattern: "privacy",
+    alias: ["privacymenu"],
+    desc: "Privacy settings menu",
+    category: "privacy",
+    react: "🔐",
+    filename: __filename
+}, 
+async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
+    try {
+        let privacyMenu = `╭━━〔 *Privacy Settings* 〕━━┈⊷
+┃◈╭─────────────·๏
+┃◈┃• blocklist - View blocked users
+┃◈┃• getbio - Get user's bio
+┃◈┃• setppall - Set profile pic privacy
+┃◈┃• setonline - Set online privacy
+┃◈┃• setpp - Change bot's profile pic
+┃◈┃• setmyname - Change bot's name
+┃◈┃• updatebio - Change bot's bio
+┃◈┃• groupsprivacy - Set group add privacy
+┃◈┃• getprivacy - View current privacy settings
+┃◈┃• getpp - Get user's profile picture
+┃◈┃
+┃◈┃*Options for privacy commands:*
+┃◈┃• all - Everyone
+┃◈┃• contacts - My contacts only
+┃◈┃• contact_blacklist - Contacts except blocked
+┃◈┃• none - Nobody
+┃◈┃• match_last_seen - Match last seen
+┃◈└───────────┈⊷
+╰──────────────┈⊷
+*Note:* Most commands are owner-only`;
+
+        await conn.sendMessage(
+            from,
+            {
+                image: { url: `https://i.ibb.co/5XNzHkVp/3908.jpg` }, // Replace with privacy-themed image if available
+                caption: privacyMenu,
+                contextInfo: {
+                    mentionedJid: [m.sender],
+                    forwardingScore: 999,
+                    isForwarded: true,
+                    forwardedNewsletterMessageInfo: {
+                        newsletterJid: '120363419192353625@newsletter',
+                        newsletterName: "☈☟𝗖𝗛𝗔𝗠𝗔 𝗠𝗗",
+                        serverMessageId: 143
+                    }
+                }
+            },
+            { quoted: mek }
+        );
+
+    } catch (e) {
+        console.log(e);
+        reply(`Error: ${e.message}`);
+    }
+});
+
+
+cmd({
+    pattern: "blocklist",
+    desc: "View the list of blocked users.",
+    category: "privacy",
+    react: "📋",
+    filename: __filename
+},
+async (conn, mek, m, { from, isOwner, reply }) => {
+    if (!isOwner) return reply("*📛 You are not the owner!*");
+
+    try {
+        // Fetch the block list
+        const blockedUsers = await conn.fetchBlocklist();
+
+        if (blockedUsers.length === 0) {
+            return reply("📋 Your block list is empty.");
+        }
+
+        // Format the blocked users with 📌 and count the total
+        const list = blockedUsers
+            .map((user, i) => `🚧 BLOCKED ${user.split('@')[0]}`) // Remove domain and add 📌
+            .join('\n');
+
+        const count = blockedUsers.length;
+        reply(`📋 Blocked Users (${count}):\n\n${list}`);
+    } catch (err) {
+        console.error(err);
+        reply(`❌ Failed to fetch block list: ${err.message}`);
+    }
+});
+
+cmd({
+    pattern: "getbio",
+    desc: "Displays the user's bio.",
+    category: "privacy",
+    filename: __filename,
+}, async (conn, mek, m, { args, reply }) => {
+    try {
+        const jid = args[0] || mek.key.remoteJid;
+        const about = await conn.fetchStatus?.(jid);
+        if (!about) return reply("No bio found.");
+        return reply(`User Bio:\n\n${about.status}`);
+    } catch (error) {
+        console.error("Error in bio command:", error);
+        reply("No bio found.");
+    }
+});
+cmd({
+    pattern: "setppall",
+    desc: "Update Profile Picture Privacy",
+    category: "privacy",
+    react: "🔐",
+    filename: __filename
+}, 
+async (conn, mek, m, { from, l, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
+    if (!isOwner) return reply("❌ You are not the owner!");
+    
+    try {
+        const value = args[0] || 'all'; 
+        const validValues = ['all', 'contacts', 'contact_blacklist', 'none'];  
+        
+        if (!validValues.includes(value)) {
+            return reply("❌ Invalid option. Valid options are: 'all', 'contacts', 'contact_blacklist', 'none'.");
+        }
+        
+        await conn.updateProfilePicturePrivacy(value);
+        reply(`✅ Profile picture privacy updated to: ${value}`);
+    } catch (e) {
+        return reply(`*An error occurred while processing your request.*\n\n_Error:_ ${e.message}`);
+    }
+});
+cmd({
+    pattern: "setonline",
+    desc: "Update Online Privacy",
+    category: "privacy",
+    react: "🔐",
+    filename: __filename
+}, 
+async (conn, mek, m, { from, l, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
+    if (!isOwner) return reply("❌ You are not the owner!");
+
+    try {
+        const value = args[0] || 'all'; 
+        const validValues = ['all', 'match_last_seen'];
+        
+        if (!validValues.includes(value)) {
+            return reply("❌ Invalid option. Valid options are: 'all', 'match_last_seen'.");
+        }
+
+        await conn.updateOnlinePrivacy(value);
+        reply(`✅ Online privacy updated to: ${value}`);
+    } catch (e) {
+        return reply(`*An error occurred while processing your request.*\n\n_Error:_ ${e.message}`);
+    }
+});
+
+cmd({
+    pattern: "setpp1",
+    desc: "Set bot profile picture.",
+    category: "privacy",
+    react: "🖼️",
+    filename: __filename
+},
+async (conn, mek, m, { from, isOwner, quoted, reply }) => {
+    if (!isOwner) return reply("❌ You are not the owner!");
+    if (!quoted || !quoted.message.imageMessage) return reply("❌ Please reply to an image.");
+    try {
+        const stream = await downloadContentFromMessage(quoted.message.imageMessage, 'image');
+        let buffer = Buffer.from([]);
+        for await (const chunk of stream) {
+            buffer = Buffer.concat([buffer, chunk]);
+        }
+
+        const mediaPath = path.join(__dirname, `${Date.now()}.jpg`);
+        fs.writeFileSync(mediaPath, buffer);
+
+        // Update profile picture with the saved file
+        await conn.updateProfilePicture(conn.user.jid, { url: `file://${mediaPath}` });
+        reply("🖼️ Profile picture updated successfully!");
+    } catch (error) {
+        console.error("Error updating profile picture:", error);
+        reply(`❌ Error updating profile picture: ${error.message}`);
+    }
+});
+
+cmd({
+    pattern: "setmyname",
+    desc: "Set your WhatsApp display name.",
+    category: "privacy",
+    react: "⚙️",
+    filename: __filename
+},
+async (conn, mek, m, { from, isOwner, reply, args }) => {
+    if (!isOwner) return reply("❌ You are not the owner!");
+
+    // Ensure you have the display name argument
+    const displayName = args.join(" ");
+    if (!displayName) return reply("❌ Please provide a display name.");
+
+    try {
+        // Ensure the session is loaded before trying to update
+        const { state, saveCreds } = await useMultiFileAuthState('path/to/auth/folder');
+        const conn = makeWASocket({
+            auth: state,
+            printQRInTerminal: true,
+        });
+
+        conn.ev.on('creds.update', saveCreds);
+
+        // Update display name after connection
+        await conn.updateProfileName(displayName);
+        reply(`✅ Your display name has been set to: ${displayName}`);
+    } catch (err) {
+        console.error(err);
+        reply("❌ Failed to set your display name.");
+    }
+});
+
+cmd({
+    pattern: "updatebio",
+    react: "🥏",
+    desc: "Change the Bot number Bio.",
+    category: "privacy",
+    use: '.updatebio',
+    filename: __filename
+},
+async (conn, mek, m, { from, l, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
+    try {
+        if (!isOwner) return reply('🚫 *You must be an Owner to use this command*');
+        if (!q) return reply('❓ *Enter the New Bio*');
+        if (q.length > 139) return reply('❗ *Sorry! Character limit exceeded*');
+        await conn.updateProfileStatus(q);
+        await conn.sendMessage(from, { text: "✔️ *New Bio Added Successfully*" }, { quoted: mek });
+    } catch (e) {
+        reply('🚫 *An error occurred!*\n\n' + e);
+        l(e);
+    }
+});
+cmd({
+    pattern: "groupsprivacy",
+    desc: "Update Group Add Privacy",
+    category: "privacy",
+    react: "🔐",
+    filename: __filename
+}, 
+async (conn, mek, m, { from, l, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
+    if (!isOwner) return reply("❌ You are not the owner!");
+
+    try {
+        const value = args[0] || 'all'; 
+        const validValues = ['all', 'contacts', 'contact_blacklist', 'none'];
+        
+        if (!validValues.includes(value)) {
+            return reply("❌ Invalid option. Valid options are: 'all', 'contacts', 'contact_blacklist', 'none'.");
+        }
+
+        await conn.updateGroupsAddPrivacy(value);
+        reply(`✅ Group add privacy updated to: ${value}`);
+    } catch (e) {
+        return reply(`*An error occurred while processing your request.*\n\n_Error:_ ${e.message}`);
+    }
+});
+
+cmd({
+    pattern: "getprivacy",
+    desc: "Get the bot Number Privacy Setting Updates.",
+    category: "privacy",
+    use: '.getprivacy',
+    filename: __filename
+},
+async (conn, mek, m, { from, l, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
+    try {
+        if (!isOwner) return reply('🚫 *You must be an Owner to use this command*');
+        const duka = await conn.fetchPrivacySettings?.(true);
+        if (!duka) return reply('🚫 *Failed to fetch privacy settings*');
+        
+        let puka = `
+╭───「 𝙿𝚁𝙸𝚅𝙰𝙲𝚈  」───◆  
+│ ∘ 𝚁𝚎𝚊𝚍 𝚁𝚎𝚌𝚎𝚒𝚙𝚝: ${duka.readreceipts}  
+│ ∘ 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝙿𝚒𝚌𝚝𝚞𝚛𝚎: ${duka.profile}  
+│ ∘ 𝚂𝚝𝚊𝚝𝚞𝚜: ${duka.status}  
+│ ∘ 𝙾𝚗𝚕𝚒𝚗𝚎: ${duka.online}  
+│ ∘ 𝙻𝚊𝚜𝚝 𝚂𝚎𝚎𝚗: ${duka.last}  
+│ ∘ 𝙶𝚛𝚘𝚞𝚙 𝙿𝚛𝚒𝚟𝚊𝚌𝚢: ${duka.groupadd}  
+│ ∘ 𝙲𝚊𝚕𝚕 𝙿𝚛𝚒𝚟𝚊𝚌𝚢: ${duka.calladd}  
+╰────────────────────`;
+        await conn.sendMessage(from, { text: puka }, { quoted: mek });
+    } catch (e) {
+        reply('🚫 *An error occurred!*\n\n' + e);
+        l(e);
+    }
+});
+cmd({
+    pattern: "getpp",
+    desc: "Fetch the profile picture of a tagged or replied user.",
+    category: "owner",
+    filename: __filename
+}, async (conn, mek, m, { quoted, isGroup, sender, participants, reply }) => {
+    try {
+        // Determine the target user
+        const targetJid = quoted ? quoted.sender : sender;
+
+        if (!targetJid) return reply("⚠️ Please reply to a message to fetch the profile picture.");
+
+        // Fetch the user's profile picture URL
+        const userPicUrl = await conn.profilePictureUrl(targetJid, "image").catch(() => null);
+
+        if (!userPicUrl) return reply("⚠️ No profile picture found for the specified user.");
+
+        // Send the user's profile picture
+        await conn.sendMessage(m.chat, {
+            image: { url: userPicUrl },
+            caption: "🖼️ Here is the profile picture of the specified user."
+        });
+    } catch (e) {
+        console.error("Error fetching user profile picture:", e);
+        reply("❌ An error occurred while fetching the profile picture. Please try again later.");
+    }
+});
+
+          
