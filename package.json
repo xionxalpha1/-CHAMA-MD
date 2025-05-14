@@ -9,7 +9,7 @@
     "restart": "pm2 restart CHAMA-MD"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "6.7.9",
+    "@whiskeysockets/baileys": "npm:@fizzxydev/baileys-pro@8.5.12",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@dark-yasiya/yt-dl.js": "1.0.5",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
@@ -37,6 +37,8 @@
     "megajs": "^1.1.0",
     "pdfkit": "^0.14.0",
     "wa_set_pkg": "1.0.5",
+    "dotenv": "^16.4.7",
+    "battery-level":"^3.0.0",
     "wa-sticker-formatter": "^4.4.4",
     "path": "^0.12.7",
     "vm": "^0.1.0",
@@ -54,3 +56,5 @@
     "mrnima-moviedl":"1.0.0"
   }
 }
+
+
