@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "CHAMA-MD=HEAVTYBA#FENTMfLiUL_KB2NURxs-BBU6oxm7X2tPs7lRMgy8pYo",
+SESSION_ID: process.env.SESSION_ID || "CHAMA-MD=Kt5kjJYQ#SaHhHhRgwe2rM1CWkdLR_k7uyOeQwtLM4gAPaokeKpw",
 // add your Session Id 
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 // make true or false status auto seen
@@ -19,8 +19,6 @@ ANTI_LINK: process.env.ANTI_LINK || "true",
 // make anti link true,false for groups 
 MENTION_REPLY: process.env.MENTION_REPLY || "false",
 // make true if want auto voice reply if someone menetion you 
-MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://i.ibb.co/5XNzHkVp/3908.jpg",
-// add custom menu and mention reply image url
 WELCOME: process.env.WELCOME || "true",
 // make true if want welcome and goodbye message in groups 
 PREFIX: process.env.PREFIX || ".",
