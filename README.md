@@ -54,19 +54,10 @@ You will need a session ID to run the CHAMA=MD. Click the button below to obtain
 
 > **3. NEW PAIR CODE SESSION ID**
 
-<a href="https://chama-md20.onrender.com/" target="_blank" style="
-  display: inline-block;
-  background: linear-gradient(45deg, #ff0000, #ff9900, #33cc33);
-  color: white;
-  padding: 12px 20px;
-  border-radius: 8px;
-  font-weight: bold;
-  text-decoration: none;
-  font-family: sans-serif;
-">
-  Get Pairing Code
+<a href='https://chama-md21.onrender.com/' target="_blank">
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-blue?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
-
+<br>
 ---
 
 # Deployment
