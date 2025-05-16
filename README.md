@@ -45,9 +45,16 @@ You will need a session ID to run the CHAMA=MD. Click the button below to obtain
 </a>
 <br> 
 
-> **2. NEW PAIR CODE SESSION ID**
+> **2. PAIR CODE SESSION ID**
 
 <a href='https://chama-md20.onrender.com/' target="_blank">
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
+</a>
+<br> 
+
+> **3. NEW PAIR CODE SESSION ID**
+
+<a href='https://chama-md21.onrender.com/' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
